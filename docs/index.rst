@@ -5,3 +5,5 @@
    :caption: Contents:
 
    contributing
+   sabaka
+   koshka
